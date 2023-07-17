@@ -1,0 +1,15 @@
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L13_Iterator\L13_Iterator\bin\Debug\net6.0\L13_Iterator.exe
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L13_Iterator\L13_Iterator\bin\Debug\net6.0\L13_Iterator.deps.json
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L13_Iterator\L13_Iterator\bin\Debug\net6.0\L13_Iterator.runtimeconfig.json
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L13_Iterator\L13_Iterator\bin\Debug\net6.0\L13_Iterator.dll
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L13_Iterator\L13_Iterator\bin\Debug\net6.0\L13_Iterator.pdb
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L13_Iterator\L13_Iterator\obj\Debug\net6.0\L13_Iterator.csproj.AssemblyReference.cache
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L13_Iterator\L13_Iterator\obj\Debug\net6.0\L13_Iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L13_Iterator\L13_Iterator\obj\Debug\net6.0\L13_Iterator.AssemblyInfoInputs.cache
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L13_Iterator\L13_Iterator\obj\Debug\net6.0\L13_Iterator.AssemblyInfo.cs
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L13_Iterator\L13_Iterator\obj\Debug\net6.0\L13_Iterator.csproj.CoreCompileInputs.cache
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L13_Iterator\L13_Iterator\obj\Debug\net6.0\L13_Iterator.dll
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L13_Iterator\L13_Iterator\obj\Debug\net6.0\refint\L13_Iterator.dll
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L13_Iterator\L13_Iterator\obj\Debug\net6.0\L13_Iterator.pdb
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L13_Iterator\L13_Iterator\obj\Debug\net6.0\L13_Iterator.genruntimeconfig.cache
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L13_Iterator\L13_Iterator\obj\Debug\net6.0\ref\L13_Iterator.dll

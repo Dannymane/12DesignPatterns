@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L11_Bridge", "L11_Bridge\L11_Bridge.csproj", "{EA6DC56E-C6EE-41B6-B8B3-DE6C3385C637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA6DC56E-C6EE-41B6-B8B3-DE6C3385C637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6DC56E-C6EE-41B6-B8B3-DE6C3385C637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6DC56E-C6EE-41B6-B8B3-DE6C3385C637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6DC56E-C6EE-41B6-B8B3-DE6C3385C637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D02FE24E-0157-4EB9-98E7-032609DCC127}
+	EndGlobalSection
+EndGlobal

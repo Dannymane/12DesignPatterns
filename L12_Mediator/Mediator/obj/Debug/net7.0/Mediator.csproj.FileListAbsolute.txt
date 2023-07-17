@@ -1,0 +1,15 @@
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\Mediator\Mediator\bin\Debug\net7.0\Mediator.exe
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\Mediator\Mediator\bin\Debug\net7.0\Mediator.deps.json
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\Mediator\Mediator\bin\Debug\net7.0\Mediator.runtimeconfig.json
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\Mediator\Mediator\bin\Debug\net7.0\Mediator.dll
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\Mediator\Mediator\bin\Debug\net7.0\Mediator.pdb
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\Mediator\Mediator\obj\Debug\net7.0\Mediator.csproj.AssemblyReference.cache
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\Mediator\Mediator\obj\Debug\net7.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\Mediator\Mediator\obj\Debug\net7.0\Mediator.AssemblyInfoInputs.cache
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\Mediator\Mediator\obj\Debug\net7.0\Mediator.AssemblyInfo.cs
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\Mediator\Mediator\obj\Debug\net7.0\Mediator.csproj.CoreCompileInputs.cache
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\Mediator\Mediator\obj\Debug\net7.0\Mediator.dll
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\Mediator\Mediator\obj\Debug\net7.0\refint\Mediator.dll
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\Mediator\Mediator\obj\Debug\net7.0\Mediator.pdb
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\Mediator\Mediator\obj\Debug\net7.0\Mediator.genruntimeconfig.cache
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\Mediator\Mediator\obj\Debug\net7.0\ref\Mediator.dll

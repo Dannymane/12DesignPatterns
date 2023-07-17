@@ -1,0 +1,15 @@
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L11_Bridge\L11_Bridge\bin\Debug\net7.0\L11_Bridge.exe
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L11_Bridge\L11_Bridge\bin\Debug\net7.0\L11_Bridge.deps.json
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L11_Bridge\L11_Bridge\bin\Debug\net7.0\L11_Bridge.runtimeconfig.json
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L11_Bridge\L11_Bridge\bin\Debug\net7.0\L11_Bridge.dll
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L11_Bridge\L11_Bridge\bin\Debug\net7.0\L11_Bridge.pdb
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L11_Bridge\L11_Bridge\obj\Debug\net7.0\L11_Bridge.csproj.AssemblyReference.cache
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L11_Bridge\L11_Bridge\obj\Debug\net7.0\L11_Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L11_Bridge\L11_Bridge\obj\Debug\net7.0\L11_Bridge.AssemblyInfoInputs.cache
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L11_Bridge\L11_Bridge\obj\Debug\net7.0\L11_Bridge.AssemblyInfo.cs
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L11_Bridge\L11_Bridge\obj\Debug\net7.0\L11_Bridge.csproj.CoreCompileInputs.cache
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L11_Bridge\L11_Bridge\obj\Debug\net7.0\L11_Bridge.dll
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L11_Bridge\L11_Bridge\obj\Debug\net7.0\refint\L11_Bridge.dll
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L11_Bridge\L11_Bridge\obj\Debug\net7.0\L11_Bridge.pdb
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L11_Bridge\L11_Bridge\obj\Debug\net7.0\L11_Bridge.genruntimeconfig.cache
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L11_Bridge\L11_Bridge\obj\Debug\net7.0\ref\L11_Bridge.dll
