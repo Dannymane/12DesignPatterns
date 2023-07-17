@@ -1,0 +1,15 @@
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L2_Strategy\bin\Debug\net7.0\L2_Strategy.exe
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L2_Strategy\bin\Debug\net7.0\L2_Strategy.deps.json
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L2_Strategy\bin\Debug\net7.0\L2_Strategy.runtimeconfig.json
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L2_Strategy\bin\Debug\net7.0\L2_Strategy.dll
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L2_Strategy\bin\Debug\net7.0\L2_Strategy.pdb
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L2_Strategy\obj\Debug\net7.0\L2_Strategy.csproj.AssemblyReference.cache
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L2_Strategy\obj\Debug\net7.0\L2_Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L2_Strategy\obj\Debug\net7.0\L2_Strategy.AssemblyInfoInputs.cache
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L2_Strategy\obj\Debug\net7.0\L2_Strategy.AssemblyInfo.cs
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L2_Strategy\obj\Debug\net7.0\L2_Strategy.csproj.CoreCompileInputs.cache
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L2_Strategy\obj\Debug\net7.0\L2_Strategy.dll
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L2_Strategy\obj\Debug\net7.0\refint\L2_Strategy.dll
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L2_Strategy\obj\Debug\net7.0\L2_Strategy.pdb
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L2_Strategy\obj\Debug\net7.0\L2_Strategy.genruntimeconfig.cache
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L2_Strategy\obj\Debug\net7.0\ref\L2_Strategy.dll
