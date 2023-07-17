@@ -1,0 +1,15 @@
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L9_State\L9_State\bin\Debug\net6.0\L9_State.exe
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L9_State\L9_State\bin\Debug\net6.0\L9_State.deps.json
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L9_State\L9_State\bin\Debug\net6.0\L9_State.runtimeconfig.json
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L9_State\L9_State\bin\Debug\net6.0\L9_State.dll
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L9_State\L9_State\bin\Debug\net6.0\L9_State.pdb
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L9_State\L9_State\obj\Debug\net6.0\L9_State.csproj.AssemblyReference.cache
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L9_State\L9_State\obj\Debug\net6.0\L9_State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L9_State\L9_State\obj\Debug\net6.0\L9_State.AssemblyInfoInputs.cache
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L9_State\L9_State\obj\Debug\net6.0\L9_State.AssemblyInfo.cs
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L9_State\L9_State\obj\Debug\net6.0\L9_State.csproj.CoreCompileInputs.cache
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L9_State\L9_State\obj\Debug\net6.0\L9_State.dll
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L9_State\L9_State\obj\Debug\net6.0\refint\L9_State.dll
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L9_State\L9_State\obj\Debug\net6.0\L9_State.pdb
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L9_State\L9_State\obj\Debug\net6.0\L9_State.genruntimeconfig.cache
+C:\Studies\Informatyka II stopien\sem 3\Wzorce projektowe\L9_State\L9_State\obj\Debug\net6.0\ref\L9_State.dll

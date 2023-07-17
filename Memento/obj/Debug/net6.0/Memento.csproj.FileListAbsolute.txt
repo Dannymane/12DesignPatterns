@@ -1,0 +1,15 @@
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L7_Memento\Memento\obj\Debug\net6.0\Memento.csproj.AssemblyReference.cache
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L7_Memento\Memento\obj\Debug\net6.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L7_Memento\Memento\obj\Debug\net6.0\Memento.AssemblyInfoInputs.cache
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L7_Memento\Memento\obj\Debug\net6.0\Memento.AssemblyInfo.cs
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L7_Memento\Memento\obj\Debug\net6.0\Memento.csproj.CoreCompileInputs.cache
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L7_Memento\Memento\bin\Debug\net6.0\Memento.exe
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L7_Memento\Memento\bin\Debug\net6.0\Memento.deps.json
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L7_Memento\Memento\bin\Debug\net6.0\Memento.runtimeconfig.json
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L7_Memento\Memento\bin\Debug\net6.0\Memento.dll
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L7_Memento\Memento\bin\Debug\net6.0\Memento.pdb
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L7_Memento\Memento\obj\Debug\net6.0\Memento.dll
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L7_Memento\Memento\obj\Debug\net6.0\refint\Memento.dll
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L7_Memento\Memento\obj\Debug\net6.0\Memento.pdb
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L7_Memento\Memento\obj\Debug\net6.0\Memento.genruntimeconfig.cache
+C:\SAMURAI\studia\Informatyka II stopien\sem 3\Wzorce projektowe\L7_Memento\Memento\obj\Debug\net6.0\ref\Memento.dll
